@@ -1,0 +1,115 @@
+.container{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin: 15rem auto 0;
+}
+
+.grade{
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.icon{
+  display:none;
+  visibility: hidden;
+}
+
+.icon.active{
+  display: block;
+  visibility:visible;
+  width: 110px;
+  height: 110px;
+}
+
+.p1{
+  display: block;
+  background-color: blue;
+  width: 110px;
+  height: 110px;
+  position: absolute;
+  top: 265px;
+  left: 40.7%;
+}
+
+.p2{
+  display: block;
+  background-color: blue;
+  width: 110px;
+  height: 110px;
+  position: absolute;
+  top: 265px;
+  left: 47.2%;
+}
+
+.p3{
+  display: block;
+  background-color: blue;
+  width: 110px;
+  height: 110px;
+  position: absolute;
+  top: 265px;
+  left: 53.5%;
+}
+
+.p4{
+  display: block;
+  background-color: blue;
+  width: 110px;
+  height: 110px;
+  position: absolute;
+  top: 385px;
+  left: 40.7%;
+}
+
+.p5{
+  display: block;
+  background-color: blue;
+  width: 110px;
+  height: 110px;
+  position: absolute;
+  top: 385px;
+  left: 47.2%;
+}
+
+.p6{
+  display: block;
+  background-color: blue;
+  width: 110px;
+  height: 110px;
+  position: absolute;
+  top: 385px;
+  left: 53.5%;
+}
+
+.p7{
+  display: block;
+  background-color: blue;
+  width: 110px;
+  height: 110px;
+  position: absolute;
+  top: 505px;
+  left: 40.7%;
+}
+
+.p8{
+  display: block;
+  background-color: blue;
+  width: 110px;
+  height: 110px;
+  position: absolute;
+   top: 505px;
+  left: 47.2%;
+}
+
+.p9{
+  display: block;
+  background-color: blue;
+  width: 110px;
+  height: 110px;
+  position: absolute;
+  top: 505px;
+  left: 53.5%;
+}
